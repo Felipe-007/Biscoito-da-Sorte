@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="Biscoito da Sorte" height="80" title="Plant Manager" />
+  Biscoito da Sorte
 </h1>
 
 <p align="center">
@@ -10,6 +10,7 @@
 
 
 ![cover](.github/cover.png?style=flat)
+
 
 
 ## 💻 Projeto
